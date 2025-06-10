@@ -1,0 +1,11 @@
+.gallery {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    padding: 0;
+    }
+.gallery li img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    }
